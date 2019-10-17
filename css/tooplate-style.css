@@ -467,6 +467,38 @@ footer a:hover {
 	letter-spacing: 1px;
 }
 
+.first-gallery-section ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.first-gallery-section ul li {
+	display: inline-block;
+	margin: 0 3px;
+}
+
+.first-gallery-section ul li a {
+	font-size: 16px;
+	color: #415b90;
+	display: inline-block;
+	width: 38px;
+	height: 38px;
+	line-height: 38px;
+	text-align: center;
+	background-color: #fff;
+	border-radius: 50%;
+}
+
+.first-gallery-section ul li a:hover {
+	background-color: #22304d;
+	color: #415b90;
+	transition: all 0.3s;
+}
+
+
+
+
 .send-to-home  {
 	/* margin-top: 100px; */
 	margin-bottom: 50px;
