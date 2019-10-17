@@ -28,10 +28,10 @@ p {
 
 .primary-button a {
 	text-decoration: none;
-	padding: 10px 18px;
+	padding: 10px 24px;
 	display: inline-block;
 	border-radius: 24px;
-	font-size: 11px;
+	font-size: 18px;
 	text-transform: uppercase;
 	font-weight: 700;
 	letter-spacing: 1px;
